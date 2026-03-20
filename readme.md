@@ -84,4 +84,4 @@ main.cpp
 
 **Ferdinand ATI** — Electronics Engineering Student & C++ Developer  
 ENSET Lokossa, Bénin 🇧🇯  
-[LinkedIn](https://www.linkedin.com/in/ferdinand-ati) | [GitHub](https://github.com/Ferdinaelectro1)
+[LinkedIn](https://www.linkedin.com/in/ati-ferdinand-76ba3728b) | [GitHub](https://github.com/Ferdinaelectro1)
